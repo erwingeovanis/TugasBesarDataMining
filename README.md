@@ -1,2 +1,3 @@
 # TugasBesarDataMining
-Tugas Besar Data Mining 096 &amp; 047
+Tugas Besar Data Mining
+Erwin Geovanis Gultom 3311911096 &amp; Febrianti Situmeang 3311911047
